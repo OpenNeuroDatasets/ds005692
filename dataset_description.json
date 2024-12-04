@@ -18,5 +18,7 @@
     "HowToAcknowledge": "Stenner, Marquez Nossa, Zaehle, Azañon, Heinze, Deliano, and Büntjen, Prior Knowledge Changes Initial Sensory Processing in the Human Spinal Cord. Science Advances, accepted",
     "License": "CC0",
     "Name": "SpinalExpect_NonInvasive",
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "Ethics Committee at the Medical Faculty at Otto-von-Guericke University Magdeburg, Germany"
+    ]
 }
