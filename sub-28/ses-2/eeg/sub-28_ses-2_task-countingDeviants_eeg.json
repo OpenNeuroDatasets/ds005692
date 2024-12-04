@@ -1,0 +1,29 @@
+{
+	"ECGChannelCount":1,
+	"EEGChannelCount":24,
+	"EEGGround":"left acromion",
+	"EEGReference":"right acromion",
+	"EMGChannelCount":0,
+	"EOGChannelCount":0,
+	"HardwareFilters":{
+		"anti_aliasingFilter":{
+			"cutoff_Hz_":1000,
+			"roll_off":"30dB\/Octave"
+		},
+		"high_passFilter":{
+			"cutoff_Hz_":0.016
+		}
+	},
+	"InstitutionName":"Otto von Guericke University Magdeburg and Leibniz Institute for Neurobiology Magdeburg",
+	"Manufacturer":"Brain Products GmbH",
+	"ManufacturersModelName":"BrainAmp DC",
+	"MiscChannelCount":0,
+	"PowerLineFrequency":50,
+	"RecordingDuration":6287.64,
+	"RecordingType":"continuous",
+	"SamplingFrequency":5000,
+	"SoftwareFilters":"n\/a",
+	"TaskDescription":"Subjects were silently counting in how many trials in each block of around 5 mins median nerve stimulation did not consist of a single stimulus like in most trials but was rapidly repeated after 80 ms and reporting that number at the end of each block.",
+	"TaskName":"countingDeviants",
+	"TriggerChannelCount":0
+}
